@@ -1,6 +1,6 @@
 # roc-bot
 
-Information bot for the community Phoenix II discord server. 
+Information bot for the community Phoenix II Discord Server. 
 
 ## Installation 
 `git clone git@github.com:Phoenix-II-Community/roc-bot.git`
